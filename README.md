@@ -1,6 +1,8 @@
+# Rails CSV Seed
+
 These files will allow you to backup your current database records into a csv files, and then run a database seed to import them.
 
-How to use:
+## How to use:
 
 1. copy and paste seeds.rb contents into db/seeds.rb
 2. place csv_backup.rake into lib/tasks/
